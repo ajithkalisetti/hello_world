@@ -4,5 +4,5 @@ creating my first GIT project
 
 
 hi i am ajith
-  $$$https://devopsonlinehub.teachable.com/courses/1181130/lectures/26905507$$$
-  
+ 
+now i deleted the previous link just for checking 
